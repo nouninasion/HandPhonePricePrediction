@@ -5,15 +5,15 @@ This repository contains a Jupyter Notebook (`HandPhonePrediction.ipynb`) that d
 ## Table of Contents
 
   - [Project Overview](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Dataset](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Features](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Preprocessing and Feature Engineering](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Exploratory Data Analysis (EDA)](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Model Training](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Model Performance](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Prediction Example](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Getting Started](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
-  - [Libraries Used](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Dataset](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#dataset)
+  - [Features](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#features)
+  - [Preprocessing and Feature Engineering](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#preprocessing-and-feature-engineering)
+  - [Exploratory Data Analysis (EDA)](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#exploratory-data-analysis-eda)
+  - [Model Training](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#model-training)
+  - [Model Performance](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#model-training)
+  - [Prediction Example](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#prediction-example)
+  - [Getting Started](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#getting-started)
+  - [Libraries Used](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#libraries-used)
 
 ## Project Overview
 
