@@ -4,16 +4,16 @@ This repository contains a Jupyter Notebook (`HandPhonePrediction.ipynb`) that d
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Preprocessing and Feature Engineering](https://www.google.com/search?q=%23preprocessing-and-feature-engineering)
-  - [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
-  - [Model Training](https://www.google.com/search?q=%23model-training)
-  - [Model Performance](https://www.google.com/search?q=%23model-performance)
-  - [Prediction Example](https://www.google.com/search?q=%23prediction-example)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-  - [Libraries Used](https://www.google.com/search?q=%23libraries-used)
+  - [Project Overview](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Dataset](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Features](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Preprocessing and Feature Engineering](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Exploratory Data Analysis (EDA)](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Model Training](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Model Performance](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Prediction Example](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Getting Started](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
+  - [Libraries Used](https://github.com/nouninasion/HandPhonePricePrediction/blob/main/README.md#project-overview)
 
 ## Project Overview
 
