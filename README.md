@@ -1,4 +1,3 @@
-# HandPhonePricePrediction
 # Handphone Price Prediction
 
 This repository contains a Jupyter Notebook (`HandPhonePrediction.ipynb`) that demonstrates a machine learning model to predict the prices of mobile phones. The project encompasses data loading, comprehensive preprocessing, feature engineering, model training, and evaluation.
